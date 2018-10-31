@@ -7,3 +7,9 @@ function add () {
 }
 
 add();
+
+function add () {
+    abc += 1++;
+}
+
+add();
